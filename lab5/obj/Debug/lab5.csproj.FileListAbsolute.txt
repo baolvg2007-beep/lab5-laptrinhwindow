@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\LTWIN\lab5\bin\Debug\lab5.exe.config
+C:\Users\ASUS\source\repos\LTWIN\lab5\bin\Debug\lab5.exe
+C:\Users\ASUS\source\repos\LTWIN\lab5\bin\Debug\lab5.pdb
+C:\Users\ASUS\source\repos\LTWIN\lab5\obj\Debug\lab5.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\LTWIN\lab5\obj\Debug\lab5.Properties.Resources.resources
+C:\Users\ASUS\source\repos\LTWIN\lab5\obj\Debug\lab5.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\LTWIN\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\LTWIN\lab5\obj\Debug\lab5.exe
+C:\Users\ASUS\source\repos\LTWIN\lab5\obj\Debug\lab5.pdb

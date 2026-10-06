@@ -1,0 +1,9 @@
+c:\Users\ASUS\source\repos\LTWIN\lab5\CourseRegistrationApp\bin\Debug\CourseRegistrationApp.exe.config
+c:\Users\ASUS\source\repos\LTWIN\lab5\CourseRegistrationApp\bin\Debug\CourseRegistrationApp.exe
+c:\Users\ASUS\source\repos\LTWIN\lab5\CourseRegistrationApp\bin\Debug\CourseRegistrationApp.pdb
+c:\Users\ASUS\source\repos\LTWIN\lab5\CourseRegistrationApp\obj\Debug\CourseRegistrationApp.csproj.AssemblyReference.cache
+c:\Users\ASUS\source\repos\LTWIN\lab5\CourseRegistrationApp\obj\Debug\CourseRegistrationApp.Properties.Resources.resources
+c:\Users\ASUS\source\repos\LTWIN\lab5\CourseRegistrationApp\obj\Debug\CourseRegistrationApp.csproj.GenerateResource.cache
+c:\Users\ASUS\source\repos\LTWIN\lab5\CourseRegistrationApp\obj\Debug\CourseRegistrationApp.csproj.CoreCompileInputs.cache
+c:\Users\ASUS\source\repos\LTWIN\lab5\CourseRegistrationApp\obj\Debug\CourseRegistrationApp.exe
+c:\Users\ASUS\source\repos\LTWIN\lab5\CourseRegistrationApp\obj\Debug\CourseRegistrationApp.pdb
